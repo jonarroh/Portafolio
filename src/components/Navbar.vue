@@ -12,6 +12,6 @@
 
 <style>
 a {
-	@apply mx-4;
+	@apply mx-4 sm:mx-2;
 }
 </style>
